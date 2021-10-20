@@ -764,6 +764,12 @@ a,b,c,d
 ```
 a,b,c,d
 
+0 0 0 0
+0 0 0 1
+...
+1 1 1 1
+
+Lexicographically ordered:
 l = 1,  a, b, c, d
 l = 2,  a[b,c,d]    ab, ac, ad
           b[c,d]    bc, bd
